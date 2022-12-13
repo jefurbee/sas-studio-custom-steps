@@ -2,4 +2,4 @@
 docs/* linguist-documentation
 
 # Define files with .step extension as SAS and have them included in stats
-*.step linguistic-language=SAS linguist-detectable
+*.step linguistic-language=SAS
